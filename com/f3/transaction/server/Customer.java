@@ -15,8 +15,8 @@ public class Customer {
         pulsa += amount;
     }
 
-    public void subtractPulsa(int cost){
-        pulsa -= cost;
+    public void subtractPulsa(int price){
+        pulsa -= price;
     }
 
     public int getPulsa() {
